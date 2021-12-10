@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/day%20📅-9-blue)
-![](https://img.shields.io/badge/stars%20⭐-12-yellow)
-![](https://img.shields.io/badge/days%20completed-6-red)
+![](https://img.shields.io/badge/day%20📅-10-blue)
+![](https://img.shields.io/badge/stars%20⭐-14-yellow)
+![](https://img.shields.io/badge/days%20completed-7-red)
 
 # 🎄 Advent of Code 2021 🎄
 
@@ -21,4 +21,5 @@ This year I am participating using Python!
 | [Day 4](https://adventofcode.com/2021/day/4) | ⭐ | ⭐ |
 | [Day 5](https://adventofcode.com/2021/day/5) | ⭐ | ⭐ |
 | [Day 6](https://adventofcode.com/2021/day/6) | ⭐ | ⭐ |
+| [Day 7](https://adventofcode.com/2021/day/7) | ⭐ | ⭐ |
 <!--- advent_readme_stars table --->
